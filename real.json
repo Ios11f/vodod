@@ -37,29 +37,10 @@
       },
       {
         "tab3": {
-          "layout": 3,
-          "buttontext": "3 Box layout",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "4 Box layout",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
+          "layout": 1,
+          "buttontext": "Команды игрового чата",
+          "title1": "",
+          "text1": "/shop - показать список предметов в корзине магазина\n/give номер_товара - получить услугу, предмет или дино, купленные в магазине\n/decaytime - при взгляде на постройку - проверить количество оставшегося времени до удаления построек и животных\n/upload - выгрузить предметы для переноса через кластер (работает в течении минуты после открытия терминала)\n/download - загрузить предметы обратно в инвентарь (если передумали переходить на другой сервер в кластере)",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       }
@@ -67,20 +48,20 @@
     "links": [
       {
         "link1": {
-          "text": "Link to Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "Написать администратору",
+          "url": "https://vk.com/real_ark_server"
         }
       },
       {
         "link2": {
-          "text": "Link to discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "text": "Дискорд",
+          "url": "https://discord.gg/vKA69Cz"
         }
       },
       {
         "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
+          "text": "Магазин",
+          "url": "https://real.survivalshop.org/"
         }
       }
     ]
