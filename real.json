@@ -15,7 +15,7 @@
     "tabs": [
       {
         "tab1": {
-          "layout": 1,
+          "layout": 3,
           "buttontext": "Инфо",
           "title1": "<TextStyle.Green>Адреса серверов</>",
           "title2": "<TextStyle.Green>Рейты и настройки</>",
